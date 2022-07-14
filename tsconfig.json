@@ -4,6 +4,7 @@
         "declarationDir": "./types",
         "emitDeclarationOnly": true,
         "isolatedModules": true,
+        "jsx": "react-jsx",
         "allowJs": true
     },
     "include": [
